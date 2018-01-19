@@ -1,3 +1,3 @@
-cd E:\Program Files\ETL\pdi-ce-7.0.0.0-25\data-integration
-e:
-Kitchen /norep /file  E:\temp\20180119\data_ex_job.kjb
+cd D:\books\Database\ETL\data-integration
+d:
+Kitchen /file  E:\temp\20180119\kettle\data_ex_job.kjb /level:Basic>>E:\temp\20180119\kettle\log\etl.log
