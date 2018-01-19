@@ -1,0 +1,202 @@
+DEBUG: Using JAVA_HOME
+DEBUG: _PENTAHO_JAVA_HOME=D:\Program Files\Java\jdk1.8.0_121
+DEBUG: _PENTAHO_JAVA=D:\Program Files\Java\jdk1.8.0_121\bin\java.exe
+
+D:\books\Database\ETL\data-integration>"D:\Program Files\Java\jdk1.8.0_121\bin\java.exe"  "-Xms1024m" "-Xmx2048m" "-XX:MaxPermSize=256m" "-Dhttps.protocols=TLSv1,TLSv1.1,TLSv1.2" "-Djava.library.path=libswt\win64" "-DKETTLE_HOME=" "-DKETTLE_REPOSITORY=" "-DKETTLE_USER=" "-DKETTLE_PASSWORD=" "-DKETTLE_PLUGIN_PACKAGES=" "-DKETTLE_LOG_SIZE_LIMIT=" "-DKETTLE_JNDI_ROOT=" -jar launcher\pentaho-application-launcher-7.0.0.0-25.jar -lib ..\libswt\win64  -main org.pentaho.di.kitchen.Kitchen -initialDir "D:\books\Database\ETL\data-integration"\ /file E:\temp\20180119\kettle\data_ex_job.kjb /level:Basic 
+11:22:42,034 INFO  [KarafBoot] Checking to see if org.pentaho.clean.karaf.cache is enabled
+11:22:45,204 INFO  [KarafInstance] 
+*******************************************************************************
+*** Karaf Instance Number: 1 at D:\books\Database\ETL\data-integration\.\sy ***
+***   stem\karaf\caches\kitchen\data-1                                      ***
+*** Karaf Port:8802                                                         ***
+*** OSGI Service Port:9051                                                  ***
+*******************************************************************************
+2018/01/19 11:22:46 - Kitchen - Logging is at level : 基本日志
+2018/01/19 11:22:46 - Kitchen - Start of run.
+2018/01/19 11:22:56 - data_ex_job - 开始执行任务
+2018/01/19 11:22:56 - data_ex_job - data_ex_job
+2018/01/19 11:23:01 - data_ex_job - 开始项[转换]
+2018/01/19 11:23:01 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:23:01 - data_ex_job - data_ex_job
+2018/01/19 11:23:06 - data_ex_job - 开始项[转换]
+2018/01/19 11:23:06 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:23:06 - data_ex_job - data_ex_job
+2018/01/19 11:23:11 - data_ex_job - 开始项[转换]
+2018/01/19 11:23:11 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:23:11 - data_ex_job - data_ex_job
+2018/01/19 11:23:16 - data_ex_job - 开始项[转换]
+2018/01/19 11:23:16 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:23:16 - data_ex_job - data_ex_job
+2018/01/19 11:23:21 - data_ex_job - 开始项[转换]
+2018/01/19 11:23:21 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:23:21 - data_ex_job - data_ex_job
+2018/01/19 11:23:26 - data_ex_job - 开始项[转换]
+2018/01/19 11:23:26 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:23:26 - data_ex_job - data_ex_job
+2018/01/19 11:23:31 - data_ex_job - 开始项[转换]
+2018/01/19 11:23:31 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:23:31 - data_ex_job - data_ex_job
+2018/01/19 11:23:36 - data_ex_job - 开始项[转换]
+2018/01/19 11:23:36 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:23:36 - data_ex_job - data_ex_job
+2018/01/19 11:23:41 - data_ex_job - 开始项[转换]
+2018/01/19 11:23:41 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:23:41 - data_ex_job - data_ex_job
+2018/01/19 11:23:46 - data_ex_job - 开始项[转换]
+2018/01/19 11:23:46 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:23:46 - data_ex_job - data_ex_job
+2018/01/19 11:23:51 - data_ex_job - 开始项[转换]
+2018/01/19 11:23:51 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:23:51 - data_ex_job - data_ex_job
+2018/01/19 11:23:56 - data_ex_job - 开始项[转换]
+2018/01/19 11:23:56 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:23:56 - data_ex_job - data_ex_job
+2018/01/19 11:24:01 - data_ex_job - 开始项[转换]
+2018/01/19 11:24:01 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:24:01 - data_ex_job - data_ex_job
+2018/01/19 11:24:06 - data_ex_job - 开始项[转换]
+2018/01/19 11:24:06 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:24:06 - data_ex_job - data_ex_job
+2018/01/19 11:24:11 - data_ex_job - 开始项[转换]
+2018/01/19 11:24:11 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:24:11 - data_ex_job - data_ex_job
+2018/01/19 11:24:16 - data_ex_job - 开始项[转换]
+2018/01/19 11:24:16 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:24:16 - data_ex_job - data_ex_job
+2018/01/19 11:24:21 - data_ex_job - 开始项[转换]
+2018/01/19 11:24:21 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:24:21 - data_ex_job - data_ex_job
+2018/01/19 11:24:26 - data_ex_job - 开始项[转换]
+2018/01/19 11:24:26 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:24:26 - data_ex_job - data_ex_job
+2018/01/19 11:24:31 - data_ex_job - 开始项[转换]
+2018/01/19 11:24:31 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:24:31 - data_ex_job - data_ex_job
+2018/01/19 11:24:36 - data_ex_job - 开始项[转换]
+2018/01/19 11:24:36 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:24:36 - data_ex_job - data_ex_job
+2018/01/19 11:24:41 - data_ex_job - 开始项[转换]
+2018/01/19 11:24:41 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:24:41 - data_ex_job - data_ex_job
+2018/01/19 11:24:46 - data_ex_job - 开始项[转换]
+2018/01/19 11:24:46 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:24:46 - data_ex_job - data_ex_job
+2018/01/19 11:24:51 - data_ex_job - 开始项[转换]
+2018/01/19 11:24:51 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:24:51 - data_ex_job - data_ex_job
+2018/01/19 11:24:56 - data_ex_job - 开始项[转换]
+2018/01/19 11:24:56 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:24:56 - data_ex_job - data_ex_job
+2018/01/19 11:25:01 - data_ex_job - 开始项[转换]
+2018/01/19 11:25:01 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:25:01 - data_ex_job - data_ex_job
+2018/01/19 11:25:06 - data_ex_job - 开始项[转换]
+2018/01/19 11:25:06 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:25:06 - data_ex_job - data_ex_job
+2018/01/19 11:25:11 - data_ex_job - 开始项[转换]
+2018/01/19 11:25:11 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:25:11 - data_ex_job - data_ex_job
+2018/01/19 11:25:16 - data_ex_job - 开始项[转换]
+2018/01/19 11:25:16 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:25:16 - data_ex_job - data_ex_job
+2018/01/19 11:25:21 - data_ex_job - 开始项[转换]
+2018/01/19 11:25:21 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:25:21 - data_ex_job - data_ex_job
+2018/01/19 11:25:26 - data_ex_job - 开始项[转换]
+2018/01/19 11:25:26 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:25:26 - data_ex_job - data_ex_job
+2018/01/19 11:25:32 - data_ex_job - 开始项[转换]
+2018/01/19 11:25:32 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:25:32 - data_ex_job - data_ex_job
+2018/01/19 11:25:37 - data_ex_job - 开始项[转换]
+2018/01/19 11:25:37 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:25:37 - data_ex_job - data_ex_job
+2018/01/19 11:25:42 - data_ex_job - 开始项[转换]
+2018/01/19 11:25:42 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:25:42 - data_ex_job - data_ex_job
+2018/01/19 11:25:47 - data_ex_job - 开始项[转换]
+2018/01/19 11:25:47 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:25:47 - data_ex_job - data_ex_job
+2018/01/19 11:25:52 - data_ex_job - 开始项[转换]
+2018/01/19 11:25:52 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:25:52 - data_ex_job - data_ex_job
+2018/01/19 11:25:57 - data_ex_job - 开始项[转换]
+2018/01/19 11:25:57 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:25:57 - data_ex_job - data_ex_job
+终止批处理操作吗(Y/N)? DEBUG: Using JAVA_HOME
+DEBUG: _PENTAHO_JAVA_HOME=D:\Program Files\Java\jdk1.8.0_121
+DEBUG: _PENTAHO_JAVA=D:\Program Files\Java\jdk1.8.0_121\bin\java.exe
+
+D:\books\Database\ETL\data-integration>"D:\Program Files\Java\jdk1.8.0_121\bin\java.exe"  "-Xms1024m" "-Xmx2048m" "-XX:MaxPermSize=256m" "-Dhttps.protocols=TLSv1,TLSv1.1,TLSv1.2" "-Djava.library.path=libswt\win64" "-DKETTLE_HOME=" "-DKETTLE_REPOSITORY=" "-DKETTLE_USER=" "-DKETTLE_PASSWORD=" "-DKETTLE_PLUGIN_PACKAGES=" "-DKETTLE_LOG_SIZE_LIMIT=" "-DKETTLE_JNDI_ROOT=" -jar launcher\pentaho-application-launcher-7.0.0.0-25.jar -lib ..\libswt\win64  -main org.pentaho.di.kitchen.Kitchen -initialDir "D:\books\Database\ETL\data-integration"\ /file E:\temp\20180119\kettle\data_ex_job.kjb /level:Basic 
+11:27:48,166 INFO  [KarafBoot] Checking to see if org.pentaho.clean.karaf.cache is enabled
+11:27:51,477 INFO  [KarafInstance] 
+*******************************************************************************
+*** Karaf Instance Number: 2 at D:\books\Database\ETL\data-integration\.\sy ***
+***   stem\karaf\caches\kitchen\data-1                                      ***
+*** Karaf Port:8803                                                         ***
+*** OSGI Service Port:9052                                                  ***
+*******************************************************************************
+2018/01/19 11:27:53 - Kitchen - Logging is at level : 基本日志
+2018/01/19 11:27:53 - Kitchen - Start of run.
+Updating configuration from org.apache.karaf.shell.cfg
+Updating configuration from org.ops4j.pax.web.cfg
+2018/01/19 11:28:03 - data_ex_job - 开始执行任务
+2018/01/19 11:28:03 - data_ex_job - data_ex_job
+2018/01/19 11:28:09 - data_ex_job - 开始项[转换]
+2018/01/19 11:28:09 - 转换 - Loading transformation from XML file [E:\temp\20180119\kettle_data_ex.ktr]
+2018/01/19 11:28:09 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:28:09 - data_ex_job - data_ex_job
+2018/01/19 11:28:14 - data_ex_job - 开始项[转换]
+2018/01/19 11:28:14 - 转换 - Loading transformation from XML file [E:\temp\20180119\kettle_data_ex.ktr]
+2018/01/19 11:28:14 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:28:14 - data_ex_job - data_ex_job
+2018/01/19 11:28:19 - data_ex_job - 开始项[转换]
+2018/01/19 11:28:19 - 转换 - Loading transformation from XML file [E:\temp\20180119\kettle_data_ex.ktr]
+2018/01/19 11:28:19 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:28:19 - data_ex_job - data_ex_job
+2018/01/19 11:28:24 - data_ex_job - 开始项[转换]
+2018/01/19 11:28:24 - 转换 - Loading transformation from XML file [E:\temp\20180119\kettle_data_ex.ktr]
+2018/01/19 11:28:24 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:28:24 - data_ex_job - data_ex_job
+2018/01/19 11:28:29 - data_ex_job - 开始项[转换]
+2018/01/19 11:28:29 - 转换 - Loading transformation from XML file [E:\temp\20180119\kettle_data_ex.ktr]
+2018/01/19 11:28:29 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:28:29 - data_ex_job - data_ex_job
+2018/01/19 11:28:34 - data_ex_job - 开始项[转换]
+2018/01/19 11:28:34 - 转换 - Loading transformation from XML file [E:\temp\20180119\kettle_data_ex.ktr]
+2018/01/19 11:28:34 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:28:34 - data_ex_job - data_ex_job
+2018/01/19 11:28:39 - data_ex_job - 开始项[转换]
+2018/01/19 11:28:39 - 转换 - Loading transformation from XML file [E:\temp\20180119\kettle_data_ex.ktr]
+2018/01/19 11:28:39 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:28:39 - data_ex_job - data_ex_job
+2018/01/19 11:28:44 - data_ex_job - 开始项[转换]
+2018/01/19 11:28:44 - 转换 - Loading transformation from XML file [E:\temp\20180119\kettle_data_ex.ktr]
+2018/01/19 11:28:44 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:28:44 - data_ex_job - data_ex_job
+2018/01/19 11:28:49 - data_ex_job - 开始项[转换]
+2018/01/19 11:28:49 - 转换 - Loading transformation from XML file [E:\temp\20180119\kettle_data_ex.ktr]
+2018/01/19 11:28:49 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:28:49 - data_ex_job - data_ex_job
+2018/01/19 11:28:54 - data_ex_job - 开始项[转换]
+2018/01/19 11:28:54 - 转换 - Loading transformation from XML file [E:\temp\20180119\kettle_data_ex.ktr]
+2018/01/19 11:28:54 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:28:54 - data_ex_job - data_ex_job
+2018/01/19 11:28:59 - data_ex_job - 开始项[转换]
+2018/01/19 11:28:59 - 转换 - Loading transformation from XML file [E:\temp\20180119\kettle_data_ex.ktr]
+2018/01/19 11:28:59 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:28:59 - data_ex_job - data_ex_job
+2018/01/19 11:29:04 - data_ex_job - 开始项[转换]
+2018/01/19 11:29:04 - 转换 - Loading transformation from XML file [E:\temp\20180119\kettle_data_ex.ktr]
+2018/01/19 11:29:04 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:29:04 - data_ex_job - data_ex_job
+2018/01/19 11:29:09 - data_ex_job - 开始项[转换]
+2018/01/19 11:29:09 - 转换 - Loading transformation from XML file [E:\temp\20180119\kettle_data_ex.ktr]
+2018/01/19 11:29:09 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:29:09 - data_ex_job - data_ex_job
+2018/01/19 11:29:14 - data_ex_job - 开始项[转换]
+2018/01/19 11:29:14 - 转换 - Loading transformation from XML file [E:\temp\20180119\kettle_data_ex.ktr]
+2018/01/19 11:29:14 - data_ex_job - 完成作业项[转换] (结果=[false])
+2018/01/19 11:29:14 - data_ex_job - data_ex_job
+终止批处理操作吗(Y/N)? 
+终止批处理操作吗(Y/N)? 
